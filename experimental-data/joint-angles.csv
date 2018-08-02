@@ -1,4 +1,4 @@
-Angles,PercentGaitCycle,VerySlowLB,VerySlowMean,VerySlowUB,SlowLB,SlowMean,SlowUB,FreeLB,FreeMean,FreeUB,FastLB,FastMean,FastUB,VeryFastLB,VeryFastMean,VeryFastUB
+Angles,,,PercentGaitCycle,VerySlowLB,VerySlowMean,VerySlowUB,SlowLB,SlowMean,SlowUB,FreeLB,FreeMean,FreeUB,FastLB,FastMean,FastUB,VeryFastLB,VeryFastMean,VeryFastUB
 Trunk,Ant/Posterior,Tilt,0,12.9916,22.8282,32.6648,12.5457,22.3389,32.1321,11.9232,21.2762,30.6292,9.3872,19.0205,28.6537,6.4355,16.4005,26.3654
 Trunk,Ant/Posterior,Tilt,2,12.5444,22.435,32.3256,12.2356,22.0285,31.8213,11.7158,20.9885,30.2612,9.3872,19.0205,28.6537,6.4355,16.4005,26.3654
 Trunk,Ant/Posterior,Tilt,4,12.2124,22.1342,32.0561,12.1488,21.9491,31.7493,11.6225,20.8957,30.1689,9.3872,19.0205,28.6537,6.4355,16.4005,26.3654
